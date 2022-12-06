@@ -1,0 +1,12 @@
+{
+  "name": "Conference Calendar",
+  "id": "1181988243210198951",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "editorType": [
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0",
+  "ui": "ui.html"
+}
